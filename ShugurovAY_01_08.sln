@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShugurovAY_01_08", "ShugurovAY_01_08.csproj", "{99C3A0AA-D59E-47E0-BFDA-9EFCFDB9909E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanQualityCalculator.Tests", "..\HumanQualityCalculator.Tests\HumanQualityCalculator.Tests.csproj", "{B3402435-A6B7-40C3-A019-FCA63F3F0808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C3A0AA-D59E-47E0-BFDA-9EFCFDB9909E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C3A0AA-D59E-47E0-BFDA-9EFCFDB9909E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C3A0AA-D59E-47E0-BFDA-9EFCFDB9909E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C3A0AA-D59E-47E0-BFDA-9EFCFDB9909E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3402435-A6B7-40C3-A019-FCA63F3F0808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3402435-A6B7-40C3-A019-FCA63F3F0808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3402435-A6B7-40C3-A019-FCA63F3F0808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3402435-A6B7-40C3-A019-FCA63F3F0808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9102393-E0F1-40DA-AC6E-54BD74FEB312}
+	EndGlobalSection
+EndGlobal
